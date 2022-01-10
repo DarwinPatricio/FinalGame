@@ -1,0 +1,1317 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1348; Version 2009; 64bit' Language: 'es' Physical Memory: 16185 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/pante/Desktop/DAM/2DAM/LIBRE CONFIGURACION/FinalGame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61255
+Successfully changed project path to: C:/Users/pante/Desktop/DAM/2DAM/LIBRE CONFIGURACION/FinalGame
+C:/Users/pante/Desktop/DAM/2DAM/LIBRE CONFIGURACION/FinalGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 28.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/pante/Desktop/DAM/2DAM/LIBRE CONFIGURACION/FinalGame/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 with Max-Q Design (ID=0x1f12)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   30.0.14.9613
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56852
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002491 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 23.09 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.978 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000621 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.668 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1243 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.4 MB.
+System memory in use after: 80.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1711.
+Total: 2.022000 ms (FindLiveObjects: 0.133700 ms CreateObjectMapping: 0.036900 ms MarkObjects: 1.556300 ms  DeleteObjects: 0.294200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(c7bf18f2b46c0a843aacd631979c376a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(c7bf18f2b46c0a843aacd631979c376a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bce3d370c66440b4c7d0daf6628804d') in 0.060683 seconds
+  Import took 0.062610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 150.485428 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_clay_snow1CliffNormals852a8d559a9a7f2c.terrainlayer
+  artifactKey: Guid(36171d17e0c651e4fbaa7975c35b5f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_clay_snow1CliffNormals852a8d559a9a7f2c.terrainlayer using Guid(36171d17e0c651e4fbaa7975c35b5f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18bfabdccf39fb4e7794ba310beb0ff3') in 0.037578 seconds
+  Import took 0.039996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_GrassTex-1CliffNormals8edf102277cc330f.terrainlayer
+  artifactKey: Guid(17479f1597b9ade4e933f4e9cf8c535d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_GrassTex-1CliffNormals8edf102277cc330f.terrainlayer using Guid(17479f1597b9ade4e933f4e9cf8c535d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1616b243fecf727ce4626ed36f7a65d4') in 0.016131 seconds
+  Import took 0.018452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_RocksRocks_n1836cd9b5b17b16d.terrainlayer
+  artifactKey: Guid(e5d17584aee37da4eb192cf357749ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_RocksRocks_n1836cd9b5b17b16d.terrainlayer using Guid(e5d17584aee37da4eb192cf357749ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5da98dbcac6811d4b128c273c7cc0e04') in 0.015284 seconds
+  Import took 0.017613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_YellowGrassYellowGrass_n8203cded8f9f5a9c.terrainlayer
+  artifactKey: Guid(0e53bcae4f85f0b49b2cc9a3a72642b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_YellowGrassYellowGrass_n8203cded8f9f5a9c.terrainlayer using Guid(0e53bcae4f85f0b49b2cc9a3a72642b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e5e73f704a7ca9b07d4e979dd56f264') in 0.014032 seconds
+  Import took 0.016557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_YellowGrassYellowGrass_n8902e69f026bdd68.terrainlayer
+  artifactKey: Guid(7a81654c976a60048b34d8b1969ccd78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_YellowGrassYellowGrass_n8902e69f026bdd68.terrainlayer using Guid(7a81654c976a60048b34d8b1969ccd78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcc2bd4b96cf484a90480d44dd83c4a6') in 0.012184 seconds
+  Import took 0.014127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_YellowGrassYellowGrass_nb417d9e920b76dd4.terrainlayer
+  artifactKey: Guid(f0fa87295148af148bba1d1cb82f8f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_YellowGrassYellowGrass_nb417d9e920b76dd4.terrainlayer using Guid(f0fa87295148af148bba1d1cb82f8f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '190973da14b1a0d5befcab0cbccd5df4') in 0.011710 seconds
+  Import took 0.013740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Ground10_1Ground10_2dfb9c2ec241961bb.terrainlayer
+  artifactKey: Guid(d113857434a9fdd45983524709a2c8f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Ground10_1Ground10_2dfb9c2ec241961bb.terrainlayer using Guid(d113857434a9fdd45983524709a2c8f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34228fdedce57b23f2edc8574054bd49') in 0.014899 seconds
+  Import took 0.016866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_darkgrass2CliffNormals2dcfb47927920106.terrainlayer
+  artifactKey: Guid(60dd4942e7f095744bff5cb1ddc747a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_darkgrass2CliffNormals2dcfb47927920106.terrainlayer using Guid(60dd4942e7f095744bff5cb1ddc747a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3946f8f6506819a65db43246be93202') in 0.012169 seconds
+  Import took 0.014280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_darkgrassCliffNormals852a8d559a9a7f2c.terrainlayer
+  artifactKey: Guid(6a6f1fd069962054e8af786cf2753fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_darkgrassCliffNormals852a8d559a9a7f2c.terrainlayer using Guid(6a6f1fd069962054e8af786cf2753fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a2b4faa2b5d2a0dc741f1fe05fde5bf') in 0.011928 seconds
+  Import took 0.014535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_GreenGrassGreenGrass_n31ad1e022a18849.terrainlayer
+  artifactKey: Guid(d11f8e0157fd2e54ba6c5b0bd92d09a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_GreenGrassGreenGrass_n31ad1e022a18849.terrainlayer using Guid(d11f8e0157fd2e54ba6c5b0bd92d09a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67eb83fd4b7c98402cbefadd989435e6') in 0.012231 seconds
+  Import took 0.014272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Ground10_1CliffNormalsdd4a3fbaecfb716c.terrainlayer
+  artifactKey: Guid(090a0dd3c6a0046408148a2ca2c3c0be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Ground10_1CliffNormalsdd4a3fbaecfb716c.terrainlayer using Guid(090a0dd3c6a0046408148a2ca2c3c0be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3721c64640440c252f9d1caf02756df7') in 0.011119 seconds
+  Import took 0.013601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_TexturesCom_SoilBeach0123_1_STexturesCom_N2e8b1754e20b730d.terrainlayer
+  artifactKey: Guid(e92dda52fe60e8b4a9785c03a3f47243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_TexturesCom_SoilBeach0123_1_STexturesCom_N2e8b1754e20b730d.terrainlayer using Guid(e92dda52fe60e8b4a9785c03a3f47243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04258660b09ad75d2a5ca179647abbdd') in 0.012410 seconds
+  Import took 0.014329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_darkgrassCliffNormals9f6e7d51425cabe9.terrainlayer
+  artifactKey: Guid(d222ea1d4b9cde44ebe04aac860a4ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_darkgrassCliffNormals9f6e7d51425cabe9.terrainlayer using Guid(d222ea1d4b9cde44ebe04aac860a4ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e71078eb24d3e5d8fdb0898bbbc031fb') in 0.011375 seconds
+  Import took 0.013307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Road_blank256HV2dcfb47927920106.terrainlayer
+  artifactKey: Guid(48f5381c973e2d84999c0dd961d55a58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Road_blank256HV2dcfb47927920106.terrainlayer using Guid(48f5381c973e2d84999c0dd961d55a58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5411fde12270018b04cf1839e77edd32') in 0.010820 seconds
+  Import took 0.013354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Dirt1Asphalt_Normal6bb547e7fe22ddce.terrainlayer
+  artifactKey: Guid(776b8f7e9e798c94ebe695c3b1fc6843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Dirt1Asphalt_Normal6bb547e7fe22ddce.terrainlayer using Guid(776b8f7e9e798c94ebe695c3b1fc6843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8253c9c03512adb880f0a5b59e2a6fff') in 0.014546 seconds
+  Import took 0.016522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_GreenGrassGreenGrass_n9bddbb0c8be96f31.terrainlayer
+  artifactKey: Guid(b1009eecf90f90f46b5214af0f86d171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_GreenGrassGreenGrass_n9bddbb0c8be96f31.terrainlayer using Guid(b1009eecf90f90f46b5214af0f86d171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d2c54e49c56dfc1cb13f334840e08ef') in 0.012869 seconds
+  Import took 0.014768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_TexturesCom_Cliffs0213_1_seamless_S (1)TexturesCom_Cliffs0213_1_seamless_N4287c3b155334cb8.terrainlayer
+  artifactKey: Guid(57dc27c970688a542aa77fadbbc63c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_TexturesCom_Cliffs0213_1_seamless_S (1)TexturesCom_Cliffs0213_1_seamless_N4287c3b155334cb8.terrainlayer using Guid(57dc27c970688a542aa77fadbbc63c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71424e7772f9146c8954ffcd2f0bfd7d') in 0.014986 seconds
+  Import took 0.017350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_RocksRocks_ncc89514fdcd90347.terrainlayer
+  artifactKey: Guid(ebde73c42d3d19e4cb5ec7928b395b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_RocksRocks_ncc89514fdcd90347.terrainlayer using Guid(ebde73c42d3d19e4cb5ec7928b395b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bf73d6b5af63304553621a6e076b2be') in 0.012149 seconds
+  Import took 0.014107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_RocksRocks_nb298462b70085586.terrainlayer
+  artifactKey: Guid(b2093a02a00c7674780caba0303e9b28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_RocksRocks_nb298462b70085586.terrainlayer using Guid(b2093a02a00c7674780caba0303e9b28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd024c0b66d998fc14f2a8e4b9aaaa09a') in 0.013955 seconds
+  Import took 0.016027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Ground10_1Ground10_251ce90792845fedc.terrainlayer
+  artifactKey: Guid(36a122bf197d4384192f84033bb0041b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Ground10_1Ground10_251ce90792845fedc.terrainlayer using Guid(36a122bf197d4384192f84033bb0041b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6284f86f76c435b6b7446fdaa8a7b5e2') in 0.014985 seconds
+  Import took 0.017476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_GreenGrassGreenGrass_n9e6399e8b3ce41ff.terrainlayer
+  artifactKey: Guid(9ca75eb2b061f674ba76f8fe3144aef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_GreenGrassGreenGrass_n9e6399e8b3ce41ff.terrainlayer using Guid(9ca75eb2b061f674ba76f8fe3144aef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95bf462ff699913e49c177d9f3256aba') in 0.014347 seconds
+  Import took 0.017480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Ground10_1Ground10_2795db4ef4b04dda2.terrainlayer
+  artifactKey: Guid(ae161e3d361cb4743a2e071ce747c44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Ground10_1Ground10_2795db4ef4b04dda2.terrainlayer using Guid(ae161e3d361cb4743a2e071ce747c44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbf163c0af3292b82777a09fe75a02ba') in 0.015478 seconds
+  Import took 0.018221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.371343 seconds.
+  path: Assets/Extreme Drift/Models
+  artifactKey: Guid(f57310d585b25034f83ce3c841b1f44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models using Guid(f57310d585b25034f83ce3c841b1f44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '888019c7576c3f9e765fcf4c6e6a2812') in 0.007500 seconds
+  Import took 0.009912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001105 seconds.
+  path: Assets/Extreme Drift/Models
+  artifactKey: Guid(f57310d585b25034f83ce3c841b1f44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models using Guid(f57310d585b25034f83ce3c841b1f44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '888019c7576c3f9e765fcf4c6e6a2812') in 0.002559 seconds
+  Import took 0.005057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.200322 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks
+  artifactKey: Guid(d7309d5f6d065ff4bba439cae7dfacf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks using Guid(d7309d5f6d065ff4bba439cae7dfacf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfa40addfdb147144529ab9275e854dc') in 0.007552 seconds
+  Import took 0.009736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.366086 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack1
+  artifactKey: Guid(913cf635a3321a64bb253d0f9dd344d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack1 using Guid(913cf635a3321a64bb253d0f9dd344d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffde38150ac067f9d40d53ce54998185') in 0.007033 seconds
+  Import took 0.009578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.073913 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/MiniMap-1.mat
+  artifactKey: Guid(5502d0b6655fb4a4fbdc97770ebd25de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/MiniMap-1.mat using Guid(5502d0b6655fb4a4fbdc97770ebd25de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea29724b82b10d219c47e3cf6aa75071') in 0.064975 seconds
+  Import took 0.066876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/RaceTrack1.FBX
+  artifactKey: Guid(1729df978ee7065469a029c9b9f9cce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/RaceTrack1.FBX using Guid(1729df978ee7065469a029c9b9f9cce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b81b38353b967353f770fdc3d572dba0') in 0.207994 seconds
+  Import took 0.210254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/MiniMap-1.psd
+  artifactKey: Guid(a197f45bccec98a428d5a0a81e6aed26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/MiniMap-1.psd using Guid(a197f45bccec98a428d5a0a81e6aed26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4d12814c27a0e4d5cf58bf286f43e33') in 0.028242 seconds
+  Import took 0.030058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.066663 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures
+  artifactKey: Guid(2320c1188eedae5459694179d17398da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures using Guid(2320c1188eedae5459694179d17398da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb6c544f0fc26152edcc1998977d2e06') in 0.006722 seconds
+  Import took 0.009155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027884 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/aas.png
+  artifactKey: Guid(2b507c6e9a62105479e2820dda5611b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/aas.png using Guid(2b507c6e9a62105479e2820dda5611b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41c224fe2f7677d1d37d1e5e770479ce') in 0.023534 seconds
+  Import took 0.025417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/texture2.bmp
+  artifactKey: Guid(7d523ff01b54de44b95ef9babd98fff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/texture2.bmp using Guid(7d523ff01b54de44b95ef9babd98fff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad178204ac9107306d484e4b364717bf') in 0.011796 seconds
+  Import took 0.013573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/texture6.bmp
+  artifactKey: Guid(ccd3d602c0b43524094aa740787af7df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/texture6.bmp using Guid(ccd3d602c0b43524094aa740787af7df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '893344716009c5e2e4ffaee28a36c617') in 0.013205 seconds
+  Import took 0.015841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/wirewall.png
+  artifactKey: Guid(0176bff2cfe155a4fb1d2f87b02f03b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/wirewall.png using Guid(0176bff2cfe155a4fb1d2f87b02f03b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6c19b5b12bf0f7369f0c65eda9142a9') in 0.013277 seconds
+  Import took 0.015347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/texture5.bmp
+  artifactKey: Guid(1fb4730f9664e16449102a99a6ba95e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/texture5.bmp using Guid(1fb4730f9664e16449102a99a6ba95e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71275c0391eb6c411f14d8706ec6d1a3') in 0.010195 seconds
+  Import took 0.012314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/ground.bmp
+  artifactKey: Guid(65e184b2586e58b4a920d1fd344cfc49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/ground.bmp using Guid(65e184b2586e58b4a920d1fd344cfc49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39bcfac45b03485a1ffcc67da59df3c9') in 0.014809 seconds
+  Import took 0.016900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/ground-2.bmp
+  artifactKey: Guid(142f9e27486313a4290aa3974c4266c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/ground-2.bmp using Guid(142f9e27486313a4290aa3974c4266c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbe97ee34177fde3d4740deacad7741e') in 0.013772 seconds
+  Import took 0.015931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/texture4.bmp
+  artifactKey: Guid(f0f3157c6a382984a9e21f26a320631c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/texture4.bmp using Guid(f0f3157c6a382984a9e21f26a320631c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0d92eea1f14479e87e4adf1163a26a5') in 0.011474 seconds
+  Import took 0.013982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/texture10.bmp
+  artifactKey: Guid(f2057d8dd94833d4c829d9d16df4b633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/texture10.bmp using Guid(f2057d8dd94833d4c829d9d16df4b633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d4ce9598986e70491dba13e732a8f72') in 0.012510 seconds
+  Import took 0.014594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/Specular.jpg
+  artifactKey: Guid(3437fd42861d22c41b7ff9b02f905ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/Specular.jpg using Guid(3437fd42861d22c41b7ff9b02f905ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f55ef66c32c63eaebf2b42924c9d325b') in 0.012478 seconds
+  Import took 0.014324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/texture11.jpg
+  artifactKey: Guid(c23144f4db372d04aa6001c112432641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/texture11.jpg using Guid(c23144f4db372d04aa6001c112432641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76ca94f961d26fba4f4982a0f7cb47ee') in 0.011002 seconds
+  Import took 0.013333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/texture1.bmp
+  artifactKey: Guid(9b0be6e8f5f9f2047a6c976a7ec2d953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/texture1.bmp using Guid(9b0be6e8f5f9f2047a6c976a7ec2d953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3ddaf4b68d737e53ae1be36cdd850f5') in 0.013588 seconds
+  Import took 0.015814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/ramp.png
+  artifactKey: Guid(a417f93714121054a91ec38c3471b689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/ramp.png using Guid(a417f93714121054a91ec38c3471b689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04b8507afa0b12db83627bf68f6ff97a') in 0.012055 seconds
+  Import took 0.014184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/texture8.jpg
+  artifactKey: Guid(dcc59a04a3de72f4b975ea5649e80f0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/texture8.jpg using Guid(dcc59a04a3de72f4b975ea5649e80f0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a658c3f241e69730dfc23eb17ec688ec') in 0.012108 seconds
+  Import took 0.014089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/texture7.bmp
+  artifactKey: Guid(0b04201f4bb1e01429e4f30397ff097b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/texture7.bmp using Guid(0b04201f4bb1e01429e4f30397ff097b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad45039d4df5abeb183c8f90860fb51c') in 0.014639 seconds
+  Import took 0.016941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/texture9.bmp
+  artifactKey: Guid(a170d5f6c6768bc48b035e899392483b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/texture9.bmp using Guid(a170d5f6c6768bc48b035e899392483b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '032eb2501a3006f89b5405fda739f17c') in 0.011903 seconds
+  Import took 0.013896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/Road.jpg
+  artifactKey: Guid(cad79bf03b1be66468995f61809df4a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Textures/Road.jpg using Guid(cad79bf03b1be66468995f61809df4a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '070e3badf5925be90bea8c32fa5150cf') in 0.012136 seconds
+  Import took 0.014030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.443325 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack2
+  artifactKey: Guid(f06459061a0fe4f4a8571cb7dc9b1ebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack2 using Guid(f06459061a0fe4f4a8571cb7dc9b1ebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b9014e78ead2c29e0de755cf7f2e99e') in 0.006917 seconds
+  Import took 0.008631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033282 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack2/MiniMap-2.mat
+  artifactKey: Guid(707bda0cd50fcc94793978c1d1e638db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack2/MiniMap-2.mat using Guid(707bda0cd50fcc94793978c1d1e638db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb780e2ebad1c1ae6a6d904b87911afd') in 0.011988 seconds
+  Import took 0.013821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack2/RaceTrack2.FBX
+  artifactKey: Guid(ff10a11a3f2096b4592a15f0afdf749e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack2/RaceTrack2.FBX using Guid(ff10a11a3f2096b4592a15f0afdf749e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2825038639e64b277189dc1c7d1f8751') in 0.092416 seconds
+  Import took 0.094683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack2/MiniMap-2.psd
+  artifactKey: Guid(4e7bb18ee91cf8046bfa860cbb981c7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack2/MiniMap-2.psd using Guid(4e7bb18ee91cf8046bfa860cbb981c7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a4d271e0cd188a1230c02d36b2106fb') in 0.015429 seconds
+  Import took 0.017096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.859424 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack2/Materials
+  artifactKey: Guid(81bbe77572fc0394ca26155b86f01289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack2/Materials using Guid(81bbe77572fc0394ca26155b86f01289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e395fbe38ca3ed6f9afa22224cad186b') in 0.007064 seconds
+  Import took 0.008974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.572050 seconds.
+  path: Assets/Extreme Drift/Other
+  artifactKey: Guid(85fbc980b19a85246842366c83ff4083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Other using Guid(85fbc980b19a85246842366c83ff4083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27d6ceaf3f3840e5892d5eb36ef627fb') in 0.009132 seconds
+  Import took 0.011003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.149409 seconds.
+  path: Assets/Extreme Drift/Other/Lighting Effects
+  artifactKey: Guid(21c6b5824be77ae488131ae2c2dc9601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Other/Lighting Effects using Guid(21c6b5824be77ae488131ae2c2dc9601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae7a8538802e42dc45dd4b27526a9c09') in 0.007690 seconds
+  Import took 0.009413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.146487 seconds.
+  path: Assets/Extreme Drift/Other/Lighting Effects/Effects
+  artifactKey: Guid(e07171cb65e0fd249b4a07ddb2b81066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Other/Lighting Effects/Effects using Guid(e07171cb65e0fd249b4a07ddb2b81066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95a534baa6c6a250bd9790118f3b1649') in 0.007655 seconds
+  Import took 0.009840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045385 seconds.
+  path: Assets/Extreme Drift/Other/Lighting Effects/Effects/AO.mat
+  artifactKey: Guid(ed16524f29ed86e43bd5916513ac1bc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Other/Lighting Effects/Effects/AO.mat using Guid(ed16524f29ed86e43bd5916513ac1bc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0100e3439f6372ad02691ec037e23ca6') in 0.013317 seconds
+  Import took 0.015348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Extreme Drift/Other/Lighting Effects/Effects/LightShaft.mat
+  artifactKey: Guid(39540848b7242c54eb8c9cf87f6082e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Other/Lighting Effects/Effects/LightShaft.mat using Guid(39540848b7242c54eb8c9cf87f6082e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61cd503a415715adf3a06a6c33aad68d') in 0.017977 seconds
+  Import took 0.019691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Extreme Drift/Other/Lighting Effects/Effects/Intro.mat
+  artifactKey: Guid(ac80854036c544039abf053561248e53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Other/Lighting Effects/Effects/Intro.mat using Guid(ac80854036c544039abf053561248e53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62ee1304c3e466be275dbafa6e98dd29') in 0.013454 seconds
+  Import took 0.016007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Extreme Drift/Other/Lighting Effects/Effects/CarShadow.mat
+  artifactKey: Guid(a472ead765fec8049979a8a025befddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Other/Lighting Effects/Effects/CarShadow.mat using Guid(a472ead765fec8049979a8a025befddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3b962ed7bb82211df633b0ace3eaf95') in 0.014256 seconds
+  Import took 0.016317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Extreme Drift/Other/Lighting Effects/Effects/SphereTransparent.mat
+  artifactKey: Guid(9f688879b47f74f8f9ab5e3734d0e584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Other/Lighting Effects/Effects/SphereTransparent.mat using Guid(9f688879b47f74f8f9ab5e3734d0e584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc7d16030fad61af2ecb025ab1bf8a2c') in 0.013340 seconds
+  Import took 0.015505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Extreme Drift/Other/Lighting Effects/Effects/GroundReflection.mat
+  artifactKey: Guid(6cc9fcccdf8045d45a081e15a539f342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Other/Lighting Effects/Effects/GroundReflection.mat using Guid(6cc9fcccdf8045d45a081e15a539f342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd23fa77e638029fb93306e2a2b7d2603') in 0.016861 seconds
+  Import took 0.019299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.796356 seconds.
+  path: Assets/Extreme Drift/Prefabs
+  artifactKey: Guid(ae36c8a144b2dfb43969b73efcb2fb29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Prefabs using Guid(ae36c8a144b2dfb43969b73efcb2fb29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e28047f388ca64d0bc17ffda10f7dcaa') in 0.007270 seconds
+  Import took 0.009057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.264084 seconds.
+  path: Assets/Extreme Drift/Prefabs/Vehicles
+  artifactKey: Guid(ed9221734dc20a8469f8eb2b22a64a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Prefabs/Vehicles using Guid(ed9221734dc20a8469f8eb2b22a64a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11c15d201337a61aa21b4a2a782b43bb') in 0.006637 seconds
+  Import took 0.009378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041886 seconds.
+  path: Assets/Extreme Drift/Prefabs/Vehicles/Car-1.prefab
+  artifactKey: Guid(452ceb2d3f0f17e4891b9489fa118e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Prefabs/Vehicles/Car-1.prefab using Guid(452ceb2d3f0f17e4891b9489fa118e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2de1f8e60d06b09e49ebe3cda87a2a50') in 0.281073 seconds
+  Import took 0.283428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Extreme Drift/Prefabs/Vehicles/PoliceCar.prefab
+  artifactKey: Guid(491cad13e2da032498a37a04fbd3e7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Prefabs/Vehicles/PoliceCar.prefab using Guid(491cad13e2da032498a37a04fbd3e7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcec78bea02f5247be4c01b7ea1162c6') in 0.034101 seconds
+  Import took 0.036544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Extreme Drift/Prefabs/Vehicles/Car-6.prefab
+  artifactKey: Guid(b6c28b0eec00bf647aa7c24adcb6589d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Prefabs/Vehicles/Car-6.prefab using Guid(b6c28b0eec00bf647aa7c24adcb6589d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86b5ff81ba04f62c94ad71549011c596') in 0.022406 seconds
+  Import took 0.024874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Extreme Drift/Prefabs/Vehicles/Car-5.prefab
+  artifactKey: Guid(6b80f4ded5a5ecc4994698ffdc4824b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Prefabs/Vehicles/Car-5.prefab using Guid(6b80f4ded5a5ecc4994698ffdc4824b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5455faeb2f9a031be6da9a351bbb4265') in 0.025523 seconds
+  Import took 0.028167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Extreme Drift/Prefabs/Vehicles/Car-7.prefab
+  artifactKey: Guid(ea8126a914be5b34da3e043ed18bec93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Prefabs/Vehicles/Car-7.prefab using Guid(ea8126a914be5b34da3e043ed18bec93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8fbf6206fdfa0eb152eec1b9b732276') in 0.024769 seconds
+  Import took 0.027617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Extreme Drift/Prefabs/Vehicles/Car-3.prefab
+  artifactKey: Guid(1824606474ebc504db54a63976b0bab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Prefabs/Vehicles/Car-3.prefab using Guid(1824606474ebc504db54a63976b0bab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d45a619faeab794751c66a4a973366b') in 0.021916 seconds
+  Import took 0.024275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Extreme Drift/Prefabs/Vehicles/Car-4.prefab
+  artifactKey: Guid(8cce1757411e9f345952aea780529983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Prefabs/Vehicles/Car-4.prefab using Guid(8cce1757411e9f345952aea780529983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ce9f6248a433011d7e48ca1306ca742') in 0.026035 seconds
+  Import took 0.028348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Extreme Drift/Prefabs/Vehicles/Car-10.prefab
+  artifactKey: Guid(c4853e8ac5f749a4c9a8687fafe76719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Prefabs/Vehicles/Car-10.prefab using Guid(c4853e8ac5f749a4c9a8687fafe76719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91cf6f4d4f5f209ecdc826800eb5222f') in 0.025026 seconds
+  Import took 0.027209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Extreme Drift/Prefabs/Vehicles/Car-8.prefab
+  artifactKey: Guid(e965f4c8af6461d4aaeb791f41e3af97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Prefabs/Vehicles/Car-8.prefab using Guid(e965f4c8af6461d4aaeb791f41e3af97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd92933d7892d6a83b0ea7d6d10c68f2d') in 0.021549 seconds
+  Import took 0.024122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Extreme Drift/Prefabs/Vehicles/Helicopter.prefab
+  artifactKey: Guid(7f8772727a0470a49b4328344c1d881c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Prefabs/Vehicles/Helicopter.prefab using Guid(7f8772727a0470a49b4328344c1d881c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfa06fe0dafa63d2f9faf03c8769638d') in 0.023587 seconds
+  Import took 0.026156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Extreme Drift/Prefabs/Vehicles/Car-2.prefab
+  artifactKey: Guid(cc4eaef7ec6d4294e8449a6418a3839b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Prefabs/Vehicles/Car-2.prefab using Guid(cc4eaef7ec6d4294e8449a6418a3839b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7abbd9cd690e83d3f534df5e714db713') in 0.022905 seconds
+  Import took 0.025390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Extreme Drift/Prefabs/Vehicles/Car-9.prefab
+  artifactKey: Guid(3f87ce5dd5b20924e99e59a9bfdbaf99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Prefabs/Vehicles/Car-9.prefab using Guid(3f87ce5dd5b20924e99e59a9bfdbaf99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c170b41ff0a60c4a62688d8fd1c6d47') in 0.022747 seconds
+  Import took 0.025052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Extreme Drift/Prefabs/Vehicles/Car-11.prefab
+  artifactKey: Guid(0ff77007104804f4288748980db29316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Prefabs/Vehicles/Car-11.prefab using Guid(0ff77007104804f4288748980db29316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93e610a870838ab85e31223191fa4b9c') in 0.024734 seconds
+  Import took 0.027664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.429238 seconds.
+  path: Assets/Extreme Drift/Prefabs/Other
+  artifactKey: Guid(7824b5456526e244c8432a00ade7e8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Prefabs/Other using Guid(7824b5456526e244c8432a00ade7e8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be743a4ae2c4f22dd62f47495fbf548c') in 0.002674 seconds
+  Import took 0.004977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000607 seconds.
+  path: Assets/Extreme Drift/Prefabs/Other
+  artifactKey: Guid(7824b5456526e244c8432a00ade7e8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Prefabs/Other using Guid(7824b5456526e244c8432a00ade7e8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be743a4ae2c4f22dd62f47495fbf548c') in 0.001934 seconds
+  Import took 0.003924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.628980 seconds.
+  path: Assets/Extreme Drift/Prefabs/Other/Garage.prefab
+  artifactKey: Guid(34469b9a6bc9b4b4e84469b2b78d5a7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Prefabs/Other/Garage.prefab using Guid(34469b9a6bc9b4b4e84469b2b78d5a7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '212bfb6fef23ea9743b0f1cb2514dd26') in 0.111689 seconds
+  Import took 0.113981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Extreme Drift/Prefabs/Other/WheelParticle(Brake).prefab
+  artifactKey: Guid(13170f87e1ad5bb4695a37d4559d4588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Prefabs/Other/WheelParticle(Brake).prefab using Guid(13170f87e1ad5bb4695a37d4559d4588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ea6c4b15ff842b38a74e31669081bb0') in 0.008832 seconds
+  Import took 0.010846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.256425 seconds.
+  path: Assets/Extreme Drift/Extreme Drift.pdf
+  artifactKey: Guid(ed4fe69089676c14cb77ac15e19f769c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Extreme Drift.pdf using Guid(ed4fe69089676c14cb77ac15e19f769c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f087fecda20fbbda79b57a21997eac6d') in 0.008555 seconds
+  Import took 0.010658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 295.586741 seconds.
+  path: Assets/Extreme Drift/Other/Textures/darkgrass.jpg
+  artifactKey: Guid(2e6a3c3c26d73574e829c6103ad3b61b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Other/Textures/darkgrass.jpg using Guid(2e6a3c3c26d73574e829c6103ad3b61b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e5bbeb39d6fc9a6eb3b776076219964') in 0.010942 seconds
+  Import took 0.013143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Extreme Drift/Other/Textures/material14.bmp
+  artifactKey: Guid(3d89369f1779ac04bb8a25640d996524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Other/Textures/material14.bmp using Guid(3d89369f1779ac04bb8a25640d996524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdcc080aeb5ccb51623e0ddcc576a62a') in 0.011575 seconds
+  Import took 0.013278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Extreme Drift/Other/Textures/grassTile01.jpg
+  artifactKey: Guid(1f2f1dbdbbe13e943b15ae77252f861c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Other/Textures/grassTile01.jpg using Guid(1f2f1dbdbbe13e943b15ae77252f861c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b37a5cedcd26da92f000d95c815ab12c') in 0.013065 seconds
+  Import took 0.014850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Extreme Drift/Other/Textures/road_all.jpg
+  artifactKey: Guid(3473eca334480ec48828b5a6acccda4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Other/Textures/road_all.jpg using Guid(3473eca334480ec48828b5a6acccda4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8f21595a5e558f1db2bc965c7faa91d') in 0.010706 seconds
+  Import took 0.013151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Extreme Drift/Other/Textures/TrackChecks.bmp
+  artifactKey: Guid(e6064fe715f7e014795d69272994b9f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Other/Textures/TrackChecks.bmp using Guid(e6064fe715f7e014795d69272994b9f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e14bc3365c5843199fecb4c26868454') in 0.011479 seconds
+  Import took 0.013756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Extreme Drift/Other/Textures/Grid.psd
+  artifactKey: Guid(c87bf938e15b70140a329a917909a16b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Other/Textures/Grid.psd using Guid(c87bf938e15b70140a329a917909a16b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c9db3ffb11f2254b333d890b07baa2b') in 0.011628 seconds
+  Import took 0.013962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Extreme Drift/Other/Textures/Grass01.bmp
+  artifactKey: Guid(a7a43eaecee63f74bba37b1e250aacdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Other/Textures/Grass01.bmp using Guid(a7a43eaecee63f74bba37b1e250aacdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45339ee9bcf2ed97fc843c59d4fc3f8c') in 0.013097 seconds
+  Import took 0.015643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Extreme Drift/Other/Textures/Grass0059_5_thumbhuge.jpg
+  artifactKey: Guid(c3fca32385bea554898c1f91e16c72f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Other/Textures/Grass0059_5_thumbhuge.jpg using Guid(c3fca32385bea554898c1f91e16c72f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03e82d09ceebd19aa51ecaedff3bf4a5') in 0.011210 seconds
+  Import took 0.013565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Extreme Drift/Other/Textures/nng-60-car-show-road-texture-map-728x657.jpg
+  artifactKey: Guid(97e8790ff9799a144ba599e2f654ff0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Other/Textures/nng-60-car-show-road-texture-map-728x657.jpg using Guid(97e8790ff9799a144ba599e2f654ff0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdf702caf7cec437bf1119e264edd5ef') in 0.010899 seconds
+  Import took 0.013137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Extreme Drift/Other/Textures/Grass0131_2_thumbhuge.jpg
+  artifactKey: Guid(29e97014fcafb6645a2bd168f1a1a50d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Other/Textures/Grass0131_2_thumbhuge.jpg using Guid(29e97014fcafb6645a2bd168f1a1a50d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e66fcf2a980873ba184931ff23998f37') in 0.011889 seconds
+  Import took 0.014044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Extreme Drift/Other/Textures/darkgrass2.jpg
+  artifactKey: Guid(f072e47bb6b31d845948a03281ff218d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Other/Textures/darkgrass2.jpg using Guid(f072e47bb6b31d845948a03281ff218d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6b57fd24e93a301db074dc3a17b6c5f') in 0.012915 seconds
+  Import took 0.015032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.835861 seconds.
+  path: Assets/Extreme Drift/Other/Textures
+  artifactKey: Guid(b918bdbb3c9e46949845e30265bd0e81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Other/Textures using Guid(b918bdbb3c9e46949845e30265bd0e81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89a2fa0db23470e98d323682b6470424') in 0.002872 seconds
+  Import took 0.005670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000523 seconds.
+  path: Assets/Extreme Drift/Other/Textures
+  artifactKey: Guid(b918bdbb3c9e46949845e30265bd0e81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Other/Textures using Guid(b918bdbb3c9e46949845e30265bd0e81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89a2fa0db23470e98d323682b6470424') in 0.002624 seconds
+  Import took 0.005040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 287.093952 seconds.
+  path: Assets/Extreme Drift/Other/CarPhysicMaterials/Car.physicmaterial
+  artifactKey: Guid(5410a64fad11e8d6d00011d98d76c639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Other/CarPhysicMaterials/Car.physicmaterial using Guid(5410a64fad11e8d6d00011d98d76c639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42a005b377df11cb1a6d7c8049aeb282') in 0.009073 seconds
+  Import took 0.011233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.583018 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack5
+  artifactKey: Guid(0a7091f194385d04a8fd93e28172d4ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack5 using Guid(0a7091f194385d04a8fd93e28172d4ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bddf1ee3cf9abda93083c5a79af00117') in 0.008360 seconds
+  Import took 0.010525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.061239 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack5/MiniMap-5.mat
+  artifactKey: Guid(e03c2cb860df15244b067c2a1dd2117c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack5/MiniMap-5.mat using Guid(e03c2cb860df15244b067c2a1dd2117c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1015a302cb802f61365c767dd24e3245') in 0.013319 seconds
+  Import took 0.015151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack5/MiniMap-5.psd
+  artifactKey: Guid(52998f1073d793b4d88849810f674261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack5/MiniMap-5.psd using Guid(52998f1073d793b4d88849810f674261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc4805638c66060c562a69a07f1dd59e') in 0.020143 seconds
+  Import took 0.022122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack5/RaceTrack5.FBX
+  artifactKey: Guid(a3bf2a7251301d3478b2442a3bbcf534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack5/RaceTrack5.FBX using Guid(a3bf2a7251301d3478b2442a3bbcf534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94057caa19ba8a63f4caeac734c1023b') in 0.190748 seconds
+  Import took 0.193230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.151470 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack4
+  artifactKey: Guid(8a14a3c159e6f8347bc9c2a7651cb66a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack4 using Guid(8a14a3c159e6f8347bc9c2a7651cb66a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1658d46847c0f3ab55e8bd754c48de11') in 0.007328 seconds
+  Import took 0.009136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052893 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack4/MiniMap-4.mat
+  artifactKey: Guid(d0b5df4756086ee48bd45b9cc77e7379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack4/MiniMap-4.mat using Guid(d0b5df4756086ee48bd45b9cc77e7379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ac7696ef87a4974afca3647fb0b70b0') in 0.012989 seconds
+  Import took 0.014919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack4/MiniMap-4.psd
+  artifactKey: Guid(9f31a5bcd725e224981073d6b1a2dff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack4/MiniMap-4.psd using Guid(9f31a5bcd725e224981073d6b1a2dff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '666aa29133c3b40a846135c6f9f70cf2') in 0.017071 seconds
+  Import took 0.019091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack4/RaceTrack4.FBX
+  artifactKey: Guid(a791f726fb080ca48924f3191abecfbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack4/RaceTrack4.FBX using Guid(a791f726fb080ca48924f3191abecfbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd920da2b7f04d28ee337d999934ed983') in 0.104454 seconds
+  Import took 0.107538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001176 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack4/MiniMap-4.psd
+  artifactKey: Guid(9f31a5bcd725e224981073d6b1a2dff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack4/MiniMap-4.psd using Guid(9f31a5bcd725e224981073d6b1a2dff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '666aa29133c3b40a846135c6f9f70cf2') in 0.015516 seconds
+  Import took 0.017599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.124867 seconds.
+  path: Assets/Standard Assets/NewLayer.terrainlayer
+  artifactKey: Guid(815e8ff46555aac48a930cf3d80b3491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/NewLayer.terrainlayer using Guid(815e8ff46555aac48a930cf3d80b3491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a68ff5c84cb679c06754d311e1ee64fc') in 0.015460 seconds
+  Import took 0.017686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 190.615631 seconds.
+  path: Assets/Extreme Drift/Scripts
+  artifactKey: Guid(74ebf87bb9663244d99c619128eb0498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Scripts using Guid(74ebf87bb9663244d99c619128eb0498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e9451991178c8ed8b64781be9289be7') in 0.008188 seconds
+  Import took 0.010338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.177115 seconds.
+  path: Assets/Extreme Drift/Scripts/Vehicle
+  artifactKey: Guid(ca79af932bcfd7f45a6a0dbfbce95b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Scripts/Vehicle using Guid(ca79af932bcfd7f45a6a0dbfbce95b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59a55b97938d2a662cd7cb787b0cb29c') in 0.007597 seconds
+  Import took 0.009869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.689280 seconds.
+  path: Assets/Extreme Drift/Scripts/Vehicle/VehicleCamera.cs
+  artifactKey: Guid(e428cb16ea4f48e4883c49d7ec227b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Scripts/Vehicle/VehicleCamera.cs using Guid(e428cb16ea4f48e4883c49d7ec227b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5152d903ab3df5b16aa37d9b00d1ef8d') in 0.016562 seconds
+  Import took 0.019488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.765808 seconds.
+  path: Assets/Extreme Drift/Scripts/Vehicle/VehicleCamera.cs
+  artifactKey: Guid(e428cb16ea4f48e4883c49d7ec227b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Scripts/Vehicle/VehicleCamera.cs using Guid(e428cb16ea4f48e4883c49d7ec227b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46449df52f8326954c592049aecbe975') in 0.009002 seconds
+  Import took 0.011675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012845 seconds.
+  path: Assets/Extreme Drift/Scripts/Vehicle/VehicleCamera.cs
+  artifactKey: Guid(e428cb16ea4f48e4883c49d7ec227b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Scripts/Vehicle/VehicleCamera.cs using Guid(e428cb16ea4f48e4883c49d7ec227b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46449df52f8326954c592049aecbe975') in 0.003277 seconds
+  Import took 0.006587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.593326 seconds.
+  path: Assets/Extreme Drift/Scripts/Vehicle/VehicleControl.cs
+  artifactKey: Guid(00030e199cdd9934dbd15380a1bcabab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Scripts/Vehicle/VehicleControl.cs using Guid(00030e199cdd9934dbd15380a1bcabab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48514f68cce348b175bd18c8b22c702c') in 0.007144 seconds
+  Import took 0.009535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.300986 seconds.
+  path: Assets/Extreme Drift/Scripts/Vehicle/VehicleDamage.cs
+  artifactKey: Guid(05fa078d2d0ce344ab4de361da32ebfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Scripts/Vehicle/VehicleDamage.cs using Guid(05fa078d2d0ce344ab4de361da32ebfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5da31da1f26080647e49e297017c7ac') in 0.006849 seconds
+  Import took 0.009199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001426 seconds.
+  path: Assets/Extreme Drift/Scripts/Vehicle/VehicleDamage.cs
+  artifactKey: Guid(05fa078d2d0ce344ab4de361da32ebfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Scripts/Vehicle/VehicleDamage.cs using Guid(05fa078d2d0ce344ab4de361da32ebfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5da31da1f26080647e49e297017c7ac') in 0.003468 seconds
+  Import took 0.005782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.075904 seconds.
+  path: Assets/Extreme Drift/Scripts/AIController
+  artifactKey: Guid(f27eb89858d7fb448b093c7f80248b28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Scripts/AIController using Guid(f27eb89858d7fb448b093c7f80248b28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8203d86a3a751a7397590dd9f07f4edd') in 0.008124 seconds
+  Import took 0.010178 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000611 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.677 seconds
+Platform modules already initialized, skipping
+Shader 'LightingEffects/Car/Specular_Cubemap_Color': fallback shader 'MobileSpecular' not found
+Shader 'LightingEffects/Car/Specular_Cubemap_Color': fallback shader 'MobileSpecular' not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1243 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.3 MB.
+System memory in use after: 85.2 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1776.
+Total: 4.073900 ms (FindLiveObjects: 0.143700 ms CreateObjectMapping: 0.037300 ms MarkObjects: 1.117300 ms  DeleteObjects: 2.774500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000751 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.674 seconds
+Platform modules already initialized, skipping
+Shader 'LightingEffects/Car/Specular_Cubemap_Color': fallback shader 'MobileSpecular' not found
+Shader 'LightingEffects/Car/Specular_Cubemap_Color': fallback shader 'MobileSpecular' not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1241 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.1 MB.
+System memory in use after: 85.1 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1779.
+Total: 4.773700 ms (FindLiveObjects: 0.160900 ms CreateObjectMapping: 0.040900 ms MarkObjects: 1.289300 ms  DeleteObjects: 3.281500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 298.570553 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack3
+  artifactKey: Guid(cebe77f8e732fe94fa0de8d2d0868a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack3 using Guid(cebe77f8e732fe94fa0de8d2d0868a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd715d0d9e8d84f8946310944155d8b3d') in 0.012204 seconds
+  Import took 0.015192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053852 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack3/MiniMap-3.mat
+  artifactKey: Guid(caae7ba91ab7860428ad4af6a2cd1cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack3/MiniMap-3.mat using Guid(caae7ba91ab7860428ad4af6a2cd1cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec3c27fb1147ef3d1bb18ca105d93216') in 0.068070 seconds
+  Import took 0.070232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack3/MiniMap-3.psd
+  artifactKey: Guid(e40b1d09fd9fbd44eb38cc9c9177c12a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack3/MiniMap-3.psd using Guid(e40b1d09fd9fbd44eb38cc9c9177c12a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bd288580359e557c327a9242718b5c3') in 0.029349 seconds
+  Import took 0.031303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Extreme Drift/Models/RaceTracks/RaceTrack3/RaceTrack3.FBX
+  artifactKey: Guid(3b8c1760bd8337a4e8cf9c1fc536bcf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Extreme Drift/Models/RaceTracks/RaceTrack3/RaceTrack3.FBX using Guid(3b8c1760bd8337a4e8cf9c1fc536bcf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28d538c338771b67c1c806ac358b29bf') in 0.313395 seconds
+  Import took 0.315854 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000967 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.755 seconds
+Platform modules already initialized, skipping
+Shader 'LightingEffects/Car/Specular_Cubemap_Color': fallback shader 'MobileSpecular' not found
+Shader 'LightingEffects/Car/Specular_Cubemap_Color': fallback shader 'MobileSpecular' not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1241 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.3 MB.
+System memory in use after: 85.3 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1785.
+Total: 5.364700 ms (FindLiveObjects: 0.183900 ms CreateObjectMapping: 0.043900 ms MarkObjects: 1.502600 ms  DeleteObjects: 3.632800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000973 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.626 seconds
+Platform modules already initialized, skipping
+Shader 'LightingEffects/Car/Specular_Cubemap_Color': fallback shader 'MobileSpecular' not found
+Shader 'LightingEffects/Car/Specular_Cubemap_Color': fallback shader 'MobileSpecular' not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1241 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.4 MB.
+System memory in use after: 85.3 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1788.
+Total: 4.835800 ms (FindLiveObjects: 0.153200 ms CreateObjectMapping: 0.037600 ms MarkObjects: 1.416400 ms  DeleteObjects: 3.227200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001043 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.612 seconds
+Platform modules already initialized, skipping
+Shader 'LightingEffects/Car/Specular_Cubemap_Color': fallback shader 'MobileSpecular' not found
+Shader 'LightingEffects/Car/Specular_Cubemap_Color': fallback shader 'MobileSpecular' not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1241 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.4 MB.
+System memory in use after: 85.3 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1791.
+Total: 5.111200 ms (FindLiveObjects: 0.165600 ms CreateObjectMapping: 0.041000 ms MarkObjects: 1.471400 ms  DeleteObjects: 3.432200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001044 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.589 seconds
+Platform modules already initialized, skipping
+Shader 'LightingEffects/Car/Specular_Cubemap_Color': fallback shader 'MobileSpecular' not found
+Shader 'LightingEffects/Car/Specular_Cubemap_Color': fallback shader 'MobileSpecular' not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1241 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.4 MB.
+System memory in use after: 85.3 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1794.
+Total: 4.725400 ms (FindLiveObjects: 0.152100 ms CreateObjectMapping: 0.039200 ms MarkObjects: 1.267800 ms  DeleteObjects: 3.265300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000801 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.605 seconds
+Platform modules already initialized, skipping
+Shader 'LightingEffects/Car/Specular_Cubemap_Color': fallback shader 'MobileSpecular' not found
+Shader 'LightingEffects/Car/Specular_Cubemap_Color': fallback shader 'MobileSpecular' not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1241 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.4 MB.
+System memory in use after: 85.4 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1797.
+Total: 5.062400 ms (FindLiveObjects: 0.159500 ms CreateObjectMapping: 0.039900 ms MarkObjects: 1.281800 ms  DeleteObjects: 3.580300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000807 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.684 seconds
+Platform modules already initialized, skipping
+Shader 'LightingEffects/Car/Specular_Cubemap_Color': fallback shader 'MobileSpecular' not found
+Shader 'LightingEffects/Car/Specular_Cubemap_Color': fallback shader 'MobileSpecular' not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1241 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.4 MB.
+System memory in use after: 85.4 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1800.
+Total: 5.518800 ms (FindLiveObjects: 0.183500 ms CreateObjectMapping: 0.045900 ms MarkObjects: 1.596900 ms  DeleteObjects: 3.690200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001025 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.720 seconds
+Platform modules already initialized, skipping
+Shader 'LightingEffects/Car/Specular_Cubemap_Color': fallback shader 'MobileSpecular' not found
+Shader 'LightingEffects/Car/Specular_Cubemap_Color': fallback shader 'MobileSpecular' not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1241 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.4 MB.
+System memory in use after: 85.4 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1803.
+Total: 5.968600 ms (FindLiveObjects: 0.182800 ms CreateObjectMapping: 0.046800 ms MarkObjects: 1.813300 ms  DeleteObjects: 3.924300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000771 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.611 seconds
+Platform modules already initialized, skipping
+Shader 'LightingEffects/Car/Specular_Cubemap_Color': fallback shader 'MobileSpecular' not found
+Shader 'LightingEffects/Car/Specular_Cubemap_Color': fallback shader 'MobileSpecular' not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1241 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.4 MB.
+System memory in use after: 85.4 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1806.
+Total: 4.629600 ms (FindLiveObjects: 0.146100 ms CreateObjectMapping: 0.035700 ms MarkObjects: 1.324400 ms  DeleteObjects: 3.122600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000676 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.625 seconds
+Platform modules already initialized, skipping
+Shader 'LightingEffects/Car/Specular_Cubemap_Color': fallback shader 'MobileSpecular' not found
+Shader 'LightingEffects/Car/Specular_Cubemap_Color': fallback shader 'MobileSpecular' not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1241 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.5 MB.
+System memory in use after: 85.4 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1809.
+Total: 5.906300 ms (FindLiveObjects: 0.188200 ms CreateObjectMapping: 0.043900 ms MarkObjects: 1.826400 ms  DeleteObjects: 3.845800 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
