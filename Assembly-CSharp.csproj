@@ -56,6 +56,7 @@
      <Compile Include="Assets\SampleScenes\Scripts\CameraSwitch.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
+     <Compile Include="Assets\Scripts\Minimap.cs" />
      <Compile Include="Assets\Extreme Drift\Other\Skidmarks\Skidmarks Essentials\Skidmarks.cs" />
      <None Include="Assets\Extreme Drift\Other\Lighting Effects\Shaders\Legacy\Legacy_Specular_Normal.shader" />
      <None Include="Assets\Extreme Drift\Models\TrackObjects\Object1\Textures\TextShader.shader" />
