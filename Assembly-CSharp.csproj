@@ -54,7 +54,6 @@
   <ItemGroup>
      <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
-     <Compile Include="Assets\Extreme Drift\Other\Skidmarks\WheelSkidmarks.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\LevelReset.cs" />
      <Compile Include="Assets\Scripts\Speedometer.cs" />
@@ -63,29 +62,7 @@
      <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
      <Compile Include="Assets\Scripts\Minimap.cs" />
-     <Compile Include="Assets\Extreme Drift\Other\Skidmarks\Skidmarks Essentials\Skidmarks.cs" />
-     <None Include="Assets\Extreme Drift\Other\Lighting Effects\Shaders\Legacy\Legacy_Specular_Normal.shader" />
-     <None Include="Assets\Extreme Drift\Models\TrackObjects\Object1\Textures\TextShader.shader" />
-     <None Include="Assets\Extreme Drift\Other\Lighting Effects\Shaders\Alpha-VertexLit-DoubleSided.shader" />
-     <None Include="Assets\Extreme Drift\Other\Lighting Effects\Shaders\Other\ReflectionBlurFresnel.shader" />
-     <None Include="Assets\Extreme Drift\Other\Lighting Effects\Shaders\Terrain\Fresnel\4Splat_Unity5_Fresnel.shader" />
-     <None Include="Assets\Extreme Drift\Other\Lighting Effects\Shaders\Legacy\Legacy_Diffuse.shader" />
      <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
-     <None Include="Assets\Extreme Drift\Other\Lighting Effects\Shaders\Lighting\Flare_Color.shader" />
-     <None Include="Assets\Extreme Drift\Other\Lighting Effects\Shaders\Legacy\Mobile_Specular_CubeMap_Color.shader" />
-     <None Include="Assets\Extreme Drift\Other\Lighting Effects\Shaders\Mobile\Mobile_Detail.shader" />
-     <None Include="Assets\Extreme Drift\Other\Lighting Effects\Shaders\DoubleSided.shader" />
-     <None Include="Assets\Extreme Drift\Other\Lighting Effects\Shaders\Mobile\Mobile_Specular.shader" />
-     <None Include="Assets\Extreme Drift\Other\Lighting Effects\Shaders\Terrain\4Splat_Unity5.shader" />
-     <None Include="Assets\Extreme Drift\Other\Lighting Effects\Shaders\Legacy\Legacy_Detail.shader" />
-     <None Include="Assets\Extreme Drift\Other\Lighting Effects\Shaders\Legacy\Legacy_Specular.shader" />
-     <None Include="Assets\Extreme Drift\Other\Lighting Effects\Shaders\Lighting\Light_Shaft.shader" />
-     <None Include="Assets\Extreme Drift\Other\Lighting Effects\Shaders\MirrorReflection.shader" />
-     <None Include="Assets\Extreme Drift\Other\Lighting Effects\Shaders\Other\TransparentRef.shader" />
-     <None Include="Assets\Extreme Drift\Other\Lighting Effects\Textures\Licence.txt" />
-     <None Include="Assets\Extreme Drift\Other\Skidmarks\Skidmarks Essentials\Skidmarks.shader" />
-     <None Include="Assets\Extreme Drift\Other\Lighting Effects\Shaders\Mobile\Mobile_Specular_Detail.shader" />
-     <None Include="Assets\Extreme Drift\Other\Lighting Effects\Shaders\Legacy\Legacy_Specular_Detail.shader" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
